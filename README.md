@@ -2,7 +2,7 @@
 
   <img src="https://imgs.search.brave.com/6DBcUdYKyQMxNwUUQcshZIQMmjnI53l0bvXcUQwjxjQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA4LzA4LzM5LzAw/LzM2MF9GXzgwODM5/MDAzNV9qUEtiNGZL/SmdjYlRLS2NMVzI5/Mmtha0hmc2dFcUtH/cS5qcGc" />
 
-  ## 🌍 Hey there, world! I'm **Faniloniaina RAMILISON** 👋🇲🇬
+  ## 🌍 Hey there! I'm **Faniloniaina RAMILISON** 👋🇲🇬
 
   _Just another dev trying to debug life one commit at a time..._ 😎  
 
